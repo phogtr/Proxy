@@ -1,0 +1,6 @@
+.vscode
+.env
+__pycache__
+test.py
+proxy_list.txt
+ua_list.txt
